@@ -1,18 +1,20 @@
-[submodule "identity-auth-network"]
-	path = identity-auth-network
+[submodule "wmn"]
+	path = wmn
+	url = https://github.com/mukherjeearnab/domestic-waste-man-network/
+[submodule "ian"]
+	path = ian
 	url = https://github.com/mukherjeearnab/identity-auth-network
-[submodule "domestic-waste-man-network"]
-	path = domestic-waste-man-network
-	url = https://github.com/mukherjeearnab/domestic-waste-man-network
-[submodule "land-registry-auth-network"]
-	path = land-registry-auth-network
+[submodule "lran"]
+	path = lran
 	url = https://github.com/mukherjeearnab/land-registry-auth-network
-[submodule "policing-network"]
-	path = policing-network
-	url = https://github.com/mukherjeearnab/policing-network
-[submodule "vehicle-platform-blockchain"]
-	path = vehicle-platform-blockchain
-	url = https://github.com/mukherjeearnab/vehicle-platform-blockchain
-[submodule "patient-emergency-detection"]
-	path = patient-emergency-detection
+[submodule "hcn"]
+	path = hcn
 	url = https://github.com/mukherjeearnab/patient-emergency-detection
+[submodule "lean"]
+	path = lean
+	url = https://github.com/mukherjeearnab/policing-network
+	branch = icn
+[submodule "vtan"]
+	path = vtan
+	url = https://github.com/mukherjeearnab/vehicle-platform-blockchain/
+	branch = icn
